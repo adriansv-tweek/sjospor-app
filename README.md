@@ -1,5 +1,28 @@
-# Appnavn: Sjøspor 
+# Sjøspor App
 
+Android application developed in Kotlin that visualizes complex weather and ocean data using GRIB format from the Norwegian Meteorological Institute API.
+
+## Screenshots 
+
+## Key Features
+- Visualization of wave height, wind and ocean conditions
+- Real-time ship positioning
+- Custom warning thresholds for dangerous conditions
+- Interactive map with multiple data layers
+
+## Tech Stack
+- Kotlin + Android Studio
+- Jetpack Compose (UI)
+- MapLibre / OSM (maps)
+- OkHttp + JSON (networking)
+- GRIB parsing (NetCDF)
+
+## About the Project
+Developed as part of a university group project (IN2000) at the University of Oslo.  
+Focused on handling complex data formats (GRIB) and building a full Android application from scratch in a team environment.
+
+
+## Detailed Documentation
 - En Android-applikasjon utviklet for fiskere som gir tilgang til værdata, skipsposisjoner, og mulighet for å starte fisketurer og logge fangster.
 
 ## CASE-KRAV
