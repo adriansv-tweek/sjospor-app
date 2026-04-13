@@ -2,8 +2,12 @@
 
 Android application developed in Kotlin that visualizes complex weather and ocean data using GRIB format from the Norwegian Meteorological Institute API.
 
-## Screenshots 
+## Screenshots
 
+| Map | Weather |
+|-----|--------|
+| ![](screenshots/map.jpg) | ![](screenshots/weather.jpg) |
+| ![](screenshots/map2.jpg) | ![](screenshots/weather2.jpg) |
 ## Key Features
 - Visualization of wave height, wind and ocean conditions
 - Real-time ship positioning
