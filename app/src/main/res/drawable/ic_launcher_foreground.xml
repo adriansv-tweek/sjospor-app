@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        
+        <!-- Kropp -->
+        <path
+            android:fillColor="#1B3F8B"
+            android:pathData="M54,65 C54,85 75,95 54,95 C33,95 25,85 25,65 C25,45 33,35 54,35 C75,35 54,45 54,65"/>
+            
+        <!-- Hode -->
+        <path
+            android:fillColor="#FFE0B2"
+            android:pathData="M54,30 C65,30 74,39 74,50 C74,61 65,70 54,70 C43,70 34,61 34,50 C34,39 43,30 54,30"/>
+            
+        <!-- Lue -->
+        <path
+            android:fillColor="#1B3F8B"
+            android:pathData="M74,45 C74,35 65,27 54,27 C43,27 34,35 34,45 L74,45"/>
+            
+        <!-- Lue-anker -->
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M51,32 L57,32 L54,42 Z"/>
+            
+        <!-- Ansikt -->
+        <path
+            android:fillColor="#000000"
+            android:pathData="M48,50 C48,52 46,52 46,50 C46,48 48,48 48,50 M62,50 C62,52 60,52 60,50 C60,48 62,48 62,50 M54,55 C58,55 58,58 54,58 C50,58 50,55 54,55"/>
+    </group>
+</vector>
