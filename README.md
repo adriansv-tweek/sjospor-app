@@ -55,8 +55,6 @@ Focused on handling complex data formats (GRIB) and building a full Android appl
 - Kart med ulike lag (vær, skip, farevarsler)
 - Fisketur, bruker kan starte fisketur gjennom knapp på hovedskjermen
 
-## Brukte biblioteker
-
 ### Kart og lokasjon
 - **MapLibre GL**: Brukes for å vise interaktive kart med ulike lag
 - **OSMDroid**: Alternativ kartløsning
@@ -79,7 +77,7 @@ Focused on handling complex data formats (GRIB) and building a full Android appl
 
 ## Utviklere
 
-1. Adrian Andersen Svindahl – adriansv@uio.no
+1. Adrian Andersen Svindahl – adriansv@uio.no & adrian.svindahl@gmail.com
 2. Thrisanth Thambirajah – thrisant@uio.no
 3. Aayan Ali – aayana@uio.no
 4. Carl Orrall - carlorr@uio.no
